@@ -1,3 +1,2 @@
-2025/09/12-15:00:01.644 70d8 Reusing MANIFEST D:\Data\Project-learn\KiwariChat\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2025/09/12-15:00:01.646 70d8 Recovering log #4
-2025/09/12-15:00:01.649 70d8 Reusing old log D:\Data\Project-learn\KiwariChat\.wwebjs_auth\session\Default\Local Storage\leveldb/000004.log 
+2025/09/14-09:36:06.582 ba8 Creating DB D:\Data\Project-learn\KiwariChat\.wwebjs_auth\session\Default\Local Storage\leveldb since it was missing.
+2025/09/14-09:36:06.600 ba8 Reusing MANIFEST D:\Data\Project-learn\KiwariChat\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001

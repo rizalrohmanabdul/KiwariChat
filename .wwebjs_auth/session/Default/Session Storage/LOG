@@ -1,3 +1,2 @@
-2025/09/12-15:00:05.955 70d8 Reusing MANIFEST D:\Data\Project-learn\KiwariChat\.wwebjs_auth\session\Default\Session Storage/MANIFEST-000001
-2025/09/12-15:00:05.956 70d8 Recovering log #3
-2025/09/12-15:00:05.957 70d8 Reusing old log D:\Data\Project-learn\KiwariChat\.wwebjs_auth\session\Default\Session Storage/000003.log 
+2025/09/14-09:36:10.621 ba8 Creating DB D:\Data\Project-learn\KiwariChat\.wwebjs_auth\session\Default\Session Storage since it was missing.
+2025/09/14-09:36:10.636 ba8 Reusing MANIFEST D:\Data\Project-learn\KiwariChat\.wwebjs_auth\session\Default\Session Storage/MANIFEST-000001
